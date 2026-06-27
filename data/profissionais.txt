@@ -1,0 +1,2 @@
+MEDICO|1|Mairton|Mairton|123|Clinico geral|123
+MEDICO|2|fulano|faluno|2103|cardiologista|CRM PADRÃO

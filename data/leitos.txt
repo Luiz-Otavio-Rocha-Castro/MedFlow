@@ -1,0 +1,10 @@
+1|Emergência|LIVRE
+2|Clínica Geral|LIVRE
+3|Pediatria|LIVRE
+4|UTI|LIVRE
+5|Cardiologia|LIVRE
+6|Emergência|LIVRE
+7|Clínica Geral|LIVRE
+8|Pediatria|LIVRE
+9|UTI|LIVRE
+10|Cardiologia|LIVRE
